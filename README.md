@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/premnaren">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7e8cf8&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Prem%20Naren&fontAlignY=40&fontName=Orbitron" alt="Hello! I'm Prem Naren" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7e8cf8&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Prem%20Naren&fontAlignY=40&font=Orbitron" alt="Hello! I'm Prem Naren" />
   </a>
 </p>
 
