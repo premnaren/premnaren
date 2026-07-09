@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/premnaren">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Prem%20Naren" alt="Hello! I&#39;m Prem Naren" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7e8cf8&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Prem%20Naren&fontAlignY=40&fontName=Orbitron" alt="Hello! I'm Prem Naren" />
   </a>
 </p>
 
@@ -51,14 +51,14 @@ Focused on building secure web applications, cryptographic systems, and automate
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=premnaren&show_icons=true&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=premnaren&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=premnaren&show_icons=true&theme=tokyonight&title_color=7e8cf8&icon_color=7e8cf8&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=premnaren&layout=compact&theme=tokyonight&title_color=7e8cf8&icon_color=7e8cf8&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=premnaren&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=premnaren&bg_color=00000000&color=7e8cf8&line=7e8cf8&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
