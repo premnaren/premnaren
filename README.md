@@ -61,11 +61,5 @@ Focused on building secure web applications, cryptographic systems, and automate
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=premnaren&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/premnaren">premnaren</a></i></p>
